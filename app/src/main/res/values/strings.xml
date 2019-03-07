@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SchedularSample</string>
+    <string name="schedule_job">Schedule Job</string>
 </resources>
